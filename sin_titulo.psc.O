@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Definir x Como Entero;
+	x<-0;
+	Mientras x<10 Hacer 
+		Escribir x;
+		x<-x+1;
+	FinMientras
+	
+	//TAREA
+	//REALIZAR EL MISMO ALGORITMO, PERO AHORA TU DEBES INGRESAR EL VALOR DE X
+	//MOSTRAR LOS NUMEROS DE MAYOR A MENOR 
+FinAlgoritmo
